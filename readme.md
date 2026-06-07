@@ -1,6 +1,6 @@
 # Syzygy 
 
-Sygyzy is a project about making AI models work together instead of using just one model for everything
+Syzygy is a project about making AI models work together instead of using just one model for everything
 
 The idea is simple: different models or IDEs like codex, Claude Code, Antigravity or other LLms can be aligned into one coordinated system. They can discuss ideas, split tasks, review each other's work, find mistakes and decide who should handle each part of a problem.
 
@@ -11,7 +11,7 @@ Instead of asking one model to do everything, Syzygy lets different models user 
 
 ## Main Idea
 
-Sygyzy acts like a coordination layer between AI models.
+Syzygy acts like a coordination layer between AI models.
 
 It helps them: 
 - Share context
