@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Environments
+.env
+.venv
+venv/
+env/
+
+# uv
+.uv/
+
+# Node
+node_modules/
+dist/
+.next/
+.nuxt/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.suo
+.DS_Store
+
+# Data (keep structure, ignore content except .gitkeep)
+data/syzygy.db
+data/artifacts/*
+!data/artifacts/.gitkeep
+data/memory/*
+!data/memory/.gitkeep
+data/runs/*
+!data/runs/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+
+# Secrets
+*.pem
+*.key
+*.p12
+secrets.json
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
