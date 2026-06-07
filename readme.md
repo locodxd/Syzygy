@@ -23,7 +23,7 @@ It helps them:
 
 ## Name
 
-The word **Sygyzy** means an alignment of celestial bodies. 
+The word **Syzygy** means an alignment of celestial bodies. 
 For this project, the name represents the alignment of powerful AI systems. Tools like Codex, Claude Code, Antigravity, and other LLM-based agents can be seen as massive “celestial bodies” in the AI space, each with its own strengths, direction, and gravity.
 **Syzygy** is about bringing those giants into alignment so they can move in the same direction, collaborate, split tasks, and solve problems together.
 The name also connects naturally with this year's HackClub collaboration with NASA, since the project uses a spaceinspired concept to describe coordination between advanced AI systems.
